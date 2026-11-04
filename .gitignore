@@ -1,0 +1,25 @@
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.pub/
+**/.pub-cache/
+**/.flutter-plugins-dependencies
+**/.flutter-plugins
+
+# Android / iOS generated module files
+**/.android/
+**/.ios/
+
+# Logs & temp
+*.log
+**/*.log
+crop_cards_right.png
+
+# IDE / Editor
+**/.idea/
+**/.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
