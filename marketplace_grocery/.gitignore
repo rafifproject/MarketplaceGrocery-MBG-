@@ -6,9 +6,11 @@
 **/.flutter-plugins-dependencies
 **/.flutter-plugins
 
-# Android / iOS generated module files
-**/.android/
-**/.ios/
+# Android / Gradle cache
+**/.gradle/
+**/plugins_build_output/
+**/local.properties
+**/.kotlin/
 
 # Logs & temp
 *.log

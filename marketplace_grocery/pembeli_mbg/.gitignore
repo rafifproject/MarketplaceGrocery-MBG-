@@ -37,9 +37,11 @@ Icon?
 .tags*
 
 build/
-.android/
-.ios/
 .flutter-plugins-dependencies
+.gradle/
+plugins_build_output/
+local.properties
+.kotlin/
 
 # Symbolication related
 app.*.symbols
